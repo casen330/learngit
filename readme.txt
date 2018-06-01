@@ -10,3 +10,5 @@ Creating a new branch is quick AND simple.
 >>>>>>> feature1
 
 test no fast forward merge.
+
+test push.
